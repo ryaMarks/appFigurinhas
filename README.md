@@ -18,5 +18,4 @@ Aplicativo com React Native que procura figurinhas em uma API de acordo com as s
 * [Axios](https://axios-http.com/docs/intro)
 
 ## Considerações
-* GIPHY:
-Para que o banco de figurinhas [GIPHY](https://developers.giphy.com/docs/api/endpoint/#search) aceite requisições, você precisa ter um token da API, então deve criar esse token e enviar no header da requisição HTTP, todo esse processo é detalhado na documentação. Ao adquirir sua `Key` na API, crie um arquivo chamado *`API_KEY.js`* dentro da pasta `src`, e nesse arquivo declare uma variavel de texto contendo sua `Key`.
+* GIPHY: Para que o banco de figurinhas [GIPHY](https://developers.giphy.com/docs/api/endpoint/#search) aceite requisições, você precisa ter um token da API, então deve criar esse token e enviar no header da requisição HTTP, todo esse processo é detalhado na documentação. Ao adquirir sua _Key_ na API, crie um arquivo chamado _`API_KEY.js`_ dentro da pasta `src`, e nesse arquivo declare uma variavel de texto contendo sua _Key_.
